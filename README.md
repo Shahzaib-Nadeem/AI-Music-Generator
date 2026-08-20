@@ -141,7 +141,6 @@ The MIDI file can be opened using software that supports MIDI playback.
 **Shahzaib Nadeem**
 
 BS Computer Science
-Sir Syed University of Engineering and Technology, Karachi
 
 ## 📌 Future Improvements
 
